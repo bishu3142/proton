@@ -1,7 +1,13 @@
 # Prerequisites
+<<<<<<< HEAD
 ######
 - JDK 23
 - Maven 3.9
+=======
+#######
+- JDK 11 
+- Maven 3 
+>>>>>>> upstream/main
 - MySQL 8
 
 # Technologies 

@@ -1,11 +1,19 @@
 pipeline {
     
 	agent any
+<<<<<<< HEAD
 	
 	tools {
 	jdk "JDK17"	
         maven "MAVEN3.9"
     }
+=======
+        
+	tools {
+	  jdk "JDK17"	
+          maven "MAVEN3.9"
+        }
+>>>>>>> upstream/main
 	
     environment {
         NEXUS_VERSION = "nexus3"
